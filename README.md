@@ -1,6 +1,6 @@
 # 智安行:基于车载视觉系统的驾驶员负面情绪检测
 
-![](image\问卷码.jpg)
+![](image/问卷码.jpg)
 
 问卷链接：https://www.wjx.cn/vm/mfWCDX5.aspx
 
