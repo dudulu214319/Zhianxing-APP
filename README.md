@@ -1,5 +1,7 @@
 # 智安行:基于车载视觉系统的驾驶员负面情绪检测
 
+![](image\问卷码.png)
+
 ## 项目背景
 
 ​	本仓库是天津大学智能与计算学部2018级本科生开发的车载APP智安行的展示主页，基于申报大创年会展示的需要而创立，方便大家下载并测试软件，以及填写问卷调查进行反馈。
@@ -11,9 +13,7 @@
     </tr>
 </table>
 
-​	日常交通
-
-驾驶情景中，分心驾驶、疲劳驾驶、负面情绪驾驶(焦虑、愤怒、紧张等)是引发交通事故的重要因素之一。以往的驾驶员监控系统（DMS，Driver Monitor System）重点关注于疲劳驾驶和分心驾驶的检测，而对负面情绪驾驶缺少关注。随着智能驾驶技术的发展，驾驶员负面情绪智能检测平台可以通过车载视觉系统对驾驶员的面部和肢体等视觉信息数据进行捕获，并通过深度学习等机器学习算法对驾驶员情绪进行识别，从而对可能造成危险情况的驾驶员情绪状态进行预警。
+​	日常交通驾驶情景中，分心驾驶、疲劳驾驶、负面情绪驾驶(焦虑、愤怒、紧张等)是引发交通事故的重要因素之一。以往的驾驶员监控系统（DMS，Driver Monitor System）重点关注于疲劳驾驶和分心驾驶的检测，而对负面情绪驾驶缺少关注。随着智能驾驶技术的发展，驾驶员负面情绪智能检测平台可以通过车载视觉系统对驾驶员的面部和肢体等视觉信息数据进行捕获，并通过深度学习等机器学习算法对驾驶员情绪进行识别，从而对可能造成危险情况的驾驶员情绪状态进行预警。
 
 ## 软件特色
 
@@ -28,34 +28,43 @@
 
 ​	功能介绍面板如下。
 
-![4](/4.jpg)
+![4](image/4.jpg)
 
 实际测试效果如下。
 
 <table>
     <tr>
-        <td><center><img src="/正常驾驶.gif"></center></td>
-        <td><center><img src="疲劳.gif"></center></td>
+        <td><center><img src="image/正常驾驶.gif"></center></td>
+        <td><center><img src="image/疲劳.gif"></center></td>
     </tr>
 </table>
+
+
+
 
 ​													正常驾驶																										疲劳驾驶
 
 <table>
     <tr>
-        <td><center><img src="/分心.gif"></center></td>
-        <td><center><img src="/愤怒.gif"></center></td>
+        <td><center><img src="image/分心.gif"></center></td>
+        <td><center><img src="image/愤怒.gif"></center></td>
     </tr>
 </table>
+
+
+
 
 ​												日间分心驾驶																						     日间愤怒驾驶
 
 <table>
     <tr>
-        <td><center><img src="夜间分心.gif"></center></td>
-        <td><center><img src="夜间愤怒.gif"></center></td>
+        <td><center><img src="image/夜间分心.gif"></center></td>
+        <td><center><img src="image/夜间愤怒.gif"></center></td>
     </tr>
 </table>
+
+
+
 
 ​													夜间分心驾驶																						夜间愤怒驾驶
 
@@ -63,10 +72,13 @@
 
 <table>
     <tr>
-        <td><center><img src="/5.jpg"></center></td>
-        <td><center><img src="/6.jpg"></center></td>
+        <td><center><img src="image/5.jpg"></center></td>
+        <td><center><img src="image/6.jpg"></center></td>
     </tr>
 </table>
+
+
+
 
 
 
