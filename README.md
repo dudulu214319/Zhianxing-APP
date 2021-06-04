@@ -1,6 +1,8 @@
 # 智安行:基于车载视觉系统的驾驶员负面情绪检测
 
-![](image\问卷码.png)
+![](image\问卷码.jpg)
+
+问卷链接：https://www.wjx.cn/vm/mfWCDX5.aspx
 
 ## 项目背景
 
@@ -30,7 +32,9 @@
 
 ![4](image/4.jpg)
 
-实际测试效果如下。
+------
+
+​	实际测试效果如下。
 
 <table>
     <tr>
@@ -40,9 +44,7 @@
 </table>
 
 
-
-
-​													正常驾驶																										疲劳驾驶
+​											&emsp;		正常驾驶																										疲劳驾驶
 
 <table>
     <tr>
@@ -50,8 +52,6 @@
         <td><center><img src="image/愤怒.gif"></center></td>
     </tr>
 </table>
-
-
 
 
 ​												日间分心驾驶																						     日间愤怒驾驶
@@ -62,8 +62,6 @@
         <td><center><img src="image/夜间愤怒.gif"></center></td>
     </tr>
 </table>
-
-
 
 
 ​													夜间分心驾驶																						夜间愤怒驾驶
